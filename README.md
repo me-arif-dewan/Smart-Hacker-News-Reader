@@ -13,7 +13,7 @@ Built with Next.js, Express, MySQL, and Ollama (local LLM).
 
 ### 1. Clone and start
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/me-arif-dewan/Smart-Hacker-News-Reader.git
 cd hn-reader
 docker-compose up --build
 ```
