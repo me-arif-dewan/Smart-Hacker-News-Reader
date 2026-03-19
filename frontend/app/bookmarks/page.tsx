@@ -86,7 +86,7 @@ export default function BookmarksPage() {
                 </div>
                 <button
                   onClick={() => handleRemove(b.story_id)}
-                  className="text-gray-300 hover:text-red-400 text-lg shrink-0"
+                  className="text-yellow-300 hover:text-red-400 text-lg shrink-0"
                   title="Remove bookmark"
                 >
                   ★
